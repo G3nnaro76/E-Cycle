@@ -10,7 +10,7 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 import time
 
 # Caricamento del dataset
-df = pd.read_csv("C:/Users/genna/Desktop/e_waste_dataset.csv")
+df = pd.read_csv("C:/Users/genna/Desktop/E-Cycle/e_waste_dataset.csv")
 
 # Visualizzazione delle informazioni generali del dataset
 df.info()
